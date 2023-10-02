@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Chinchilla" | tr -d 'cC'
